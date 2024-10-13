@@ -1,0 +1,7 @@
+-- Active: 1723505726083@@127.0.0.1@5432@ecommerce_db
+-- DROP DATABASE
+DROP DATABASE IF EXISTS ecommerce_db;
+
+-- CREATE DATABASE
+CREATE DATABASE ecommerce_db;
+
